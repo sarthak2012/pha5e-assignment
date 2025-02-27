@@ -1,5 +1,6 @@
 Pha5e Hero Section Recreation
 This project recreates the hero section of the Pha5e website (https://www.pha5e.com/) with initial animations, hover interactions, and mouse movement effects. It uses HTML, CSS, and JavaScript, with additional enhancements using Bootstrap and GSAP. 
+
 Demo
 You can see a live demo of this project here. {https://pha5e-hero.netlify.app/}
 
@@ -13,11 +14,11 @@ Multiple hero images in the background
 
 
 Technologies Used
-HTML5
-CSS3
-JavaScript
-Bootstrap 5
-GSAP (GreenSock Animation Platform)
+HTML5, 
+CSS3, 
+JavaScript, 
+Bootstrap 5, 
+GSAP
 
 Setup
 To set up this project locally, follow these steps:
